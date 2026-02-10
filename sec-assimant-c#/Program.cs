@@ -42,6 +42,26 @@
             //}
             //Console.Read();
             #endregion
+
+            #region question6
+            // print ==========> 11
+            // explain ====>  beacuse we made unboxing for the variable a and convert
+            // it to int and add 1 to it
+            #endregion
+
+            #region question7
+            //  InvalidCastException!
+            //object o = 10;
+            //long x = (long)(int)o;
+            //Console.WriteLine(x);
+            #endregion
+
+
+            #region question8
+            //object o = 10;
+            //long x =(long)(int)o;
+            //Console.WriteLine(x);
+            #endregion
         }
     }
 }
